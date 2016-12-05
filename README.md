@@ -29,6 +29,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
   </tr>
 </table>
 
+<hr />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -55,6 +57,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
     </td>
   </tr>
 </table>
+
+<hr />
 
 <table width="100%">
   <tr>
@@ -83,6 +87,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
   </tr>
 </table>
 
+<hr />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -109,6 +115,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
     </td>
   </tr>
 </table>
+
+<hr />
 
 <table width="100%">
   <tr>
@@ -137,6 +145,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
   </tr>
 </table>
 
+<hr />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -164,6 +174,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
   </tr>
 </table>
 
+<hr />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -190,6 +202,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
     </td>
   </tr>
 </table>
+
+<hr />
 
 <table width="100%">
   <tr>
@@ -245,6 +259,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
   </tr>
 </table>
 
+<hr />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -299,6 +315,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
   </tr>
 </table>
 
+<hr />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -325,6 +343,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
     </td>
   </tr>
 </table>
+
+<hr />
 
 <table width="100%">
   <tr>
@@ -353,6 +373,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
   </tr>
 </table>
 
+<hr />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -380,6 +402,8 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
   </tr>
 </table>
 
+<hr />
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -406,3 +430,5 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
     </td>
   </tr>
 </table>
+
+<hr />
