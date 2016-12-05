@@ -5,10 +5,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/tc39/proposal-observable/pull/97">PR: Remove forEach and add "subscribe" overload</a>
+      <b><a href="https://github.com/tc39/proposal-observable/pull/97">PR: Remove forEach and add "subscribe" overload</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bower/bower/issues/1102">Issue: "Ask for Insights on first run." breaks automation.</a>
+      <b><a href="https://github.com/bower/bower/issues/1102">Issue: "Ask for Insights on first run." breaks automation.</a></b>
     </td>
   </tr>
   <tr>
@@ -34,10 +34,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bower/bower/pull/1748">PR: LockFile Feature</a>
+      <b><a href="https://github.com/bower/bower/pull/1748">PR: LockFile Feature</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/chrisaljoudi/uBlock/pull/1517">PR: Remove donation links and add apology</a>
+      <b><a href="https://github.com/chrisaljoudi/uBlock/pull/1517">PR: Remove donation links and add apology</a></b>
     </td>
   </tr>
   <tr>
@@ -63,10 +63,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/django/django/pull/2692">PR: Replaced occurrences of master/slave terminology with leader/follower</a>
+      <b><a href="https://github.com/django/django/pull/2692">PR: Replaced occurrences of master/slave terminology with leader/follower</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/irungentoo/toxcore/issues/1227">Issue: irungentoo, cut it out</a>
+      <b><a href="https://github.com/irungentoo/toxcore/issues/1227">Issue: irungentoo, cut it out</a></b>
     </td>
   </tr>
   <tr>
@@ -92,10 +92,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jashkenas/underscore/issues/1805">Issue: Fix the versioning</a>
+      <b><a href="https://github.com/jashkenas/underscore/issues/1805">Issue: Fix the versioning</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/joyent/libuv/pull/1015">PR: Removed use of gendered pronoun</a>
+      <b><a href="https://github.com/joyent/libuv/pull/1015">PR: Removed use of gendered pronoun</a></b>
     </td>
   </tr>
   <tr>
@@ -121,10 +121,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/JuliaLang/IJulia.jl/issues/398">Issue: IJulia is broken</a>
+      <b><a href="https://github.com/JuliaLang/IJulia.jl/issues/398">Issue: IJulia is broken</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kenwheeler/slick/issues/681">Issue: Swiping left and right will also activate HREF link</a>
+      <b><a href="https://github.com/kenwheeler/slick/issues/681">Issue: Swiping left and right will also activate HREF link</a></b>
     </td>
   </tr>
   <tr>
@@ -150,10 +150,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/kraih/mojo/issues/656">Issue: cURL get.mojolicio.us | sh</a>
+      <b><a href="https://github.com/kraih/mojo/issues/656">Issue: cURL get.mojolicio.us | sh</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Microsoft/TypeScript/pull/3622">PR: Intersection types</a>
+      <b><a href="https://github.com/Microsoft/TypeScript/pull/3622">PR: Intersection types</a></b>
     </td>
   </tr>
   <tr>
@@ -179,10 +179,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/moment/moment/issues/1407">Issue: Be careful when falling back to Date constructor</a>
+      <b><a href="https://github.com/moment/moment/issues/1407">Issue: Be careful when falling back to Date constructor</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459">Comment: Revert part of bug 1184615 for causing test failures.</a>
+      <b><a href="https://github.com/mozilla/addon-sdk/commit/169a05b9764674b6ad3fb1c6ea1cbf3c7edf8db0#commitcomment-14824459">Comment: Revert part of bug 1184615 for causing test failures.</a></b>
     </td>
   </tr>
   <tr>
@@ -208,10 +208,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mozilla-jetpack/jpm/pull/357/commits">Commit: I can't do reviews now, because @joewalker fired me.</a>
+      <b><a href="https://github.com/mozilla-jetpack/jpm/pull/357/commits">Commit: I can't do reviews now, because @joewalker fired me.</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123">Issue: Install script does rm -rf /usr for ubuntu</a>
+      <b><a href="https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/issues/123">Issue: Install script does rm -rf /usr for ubuntu</a></b>
     </td>
   </tr>
   <tr>
@@ -235,10 +235,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67">Commit: https://imgur.com/QC51FZz</a>
+      <b><a href="https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67">Commit: https://imgur.com/QC51FZz</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nodejs/inclusivity/issues/9">Issue: How to avoid using problematic language?</a>
+      <b><a href="https://github.com/nodejs/inclusivity/issues/9">Issue: How to avoid using problematic language?</a></b>
     </td>
   </tr>
   <tr>
@@ -264,10 +264,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nodejs/node/issues/3721">Issue: Replace suicide as a verb</a>
+      <b><a href="https://github.com/nodejs/node/issues/3721">Issue: Replace suicide as a verb</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/opal/opal/issues/941">Issue: Transphobic maintainer should be removed from project</a>
+      <b><a href="https://github.com/opal/opal/issues/941">Issue: Transphobic maintainer should be removed from project</a></b>
     </td>
   </tr>
   <tr>
@@ -291,10 +291,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ptsteadman/notebook/pull/1">PR: Correct typos</a>
+      <b><a href="https://github.com/ptsteadman/notebook/pull/1">PR: Correct typos</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rails/rails/issues/9894">Issue: ActiveRecord.where(hash).create callbacks inherit the where(hash)</a>
+      <b><a href="https://github.com/rails/rails/issues/9894">Issue: ActiveRecord.where(hash).create callbacks inherit the where(hash)</a></b>
     </td>
   </tr>
   <tr>
@@ -320,10 +320,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rails/rails/pull/5329">PR: request.xhr? now returns boolean as expected, rather than nil or 0</a>
+      <b><a href="https://github.com/rails/rails/pull/5329">PR: request.xhr? now returns boolean as expected, rather than nil or 0</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/resque/resque/issues/1406">Issue: Code of Conduct</a>
+      <b><a href="https://github.com/resque/resque/issues/1406">Issue: Code of Conduct</a></b>
     </td>
   </tr>
   <tr>
@@ -349,10 +349,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/tip4commit/tip4commit/issues/127">Issue: Please remove mitsuhiko/*</a>
+      <b><a href="https://github.com/tip4commit/tip4commit/issues/127">Issue: Please remove mitsuhiko/*</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/PowerShell/PowerShell/pull/1901">PR: initialsession: remove curl and wget aliases</a>
+      <b><a href="https://github.com/PowerShell/PowerShell/pull/1901">PR: initialsession: remove curl and wget aliases</a></b>
     </td>
   </tr>
   <tr>
@@ -378,10 +378,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/twbs/bootstrap/issues/3057">Issue: bootstrap-dropdown.js clearMenus() needs ; at the end</a>
+      <b><a href="https://github.com/twbs/bootstrap/issues/3057">Issue: bootstrap-dropdown.js clearMenus() needs ; at the end</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ValveSoftware/steam-for-linux/issues/3671">Issue: Moved ~/.local/share/steam. Ran steam. It deleted everything on system owned by user.</a>
+      <b><a href="https://github.com/ValveSoftware/steam-for-linux/issues/3671">Issue: Moved ~/.local/share/steam. Ran steam. It deleted everything on system owned by user.</a></b>
     </td>
   </tr>
   <tr>
@@ -407,10 +407,10 @@ A collection of dramas unfolding at GitHub over the years. This is a more organi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nodejs/node/pull/4765">PR: Enable Node.js to run with Microsoft's ChakraCore engine</a>
+      <b><a href="https://github.com/nodejs/node/pull/4765">PR: Enable Node.js to run with Microsoft's ChakraCore engine</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/twitter/scrooge/issues/222">Issue: Build is failing icon</a>
+      <b><a href="https://github.com/twitter/scrooge/issues/222">Issue: Build is failing icon</a></b>
     </td>
   </tr>
   <tr>
